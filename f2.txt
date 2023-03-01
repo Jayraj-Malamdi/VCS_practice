@@ -1,1 +1,2 @@
 this is file2 after editingfor understanding log
+now lrn use of rm and restore
