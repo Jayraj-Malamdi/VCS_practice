@@ -1,1 +1,1 @@
-this is file1
+this is file1edited for understanding how diff can be used for commits
