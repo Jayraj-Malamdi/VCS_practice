@@ -1,1 +1,1 @@
-this is file1edited for understanding how diff can be used for commits
+this is file1edited for understanding how diff can be used for commitsin working directory in staging area
