@@ -1,3 +1,7 @@
 first 
+<<<<<<< Updated upstream
 2nd
+=======
+second 
+>>>>>>> Stashed changes
 third
